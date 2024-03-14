@@ -1,9 +1,0 @@
-pyTelegramBotAPI
-pyrogram
-requests
-sqlite3
-datetime
-sqlite3
-flask
-shelve
-telebot
